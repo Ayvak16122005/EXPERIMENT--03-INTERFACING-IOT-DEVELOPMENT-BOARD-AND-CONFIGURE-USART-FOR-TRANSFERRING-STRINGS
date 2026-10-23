@@ -114,7 +114,7 @@ int main(void)
   {
 
 	  printf("KAVYA T \n");
-	  printf(",2305003004 \n");
+	  printf("2305003004 \n");
 	  HAL_Delay(5000);
 
   }
